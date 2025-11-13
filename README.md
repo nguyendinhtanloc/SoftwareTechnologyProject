@@ -1,12 +1,5 @@
 # SoftwareTechnologyProject
 
-Chắc chắn! Dựa trên phân công module, Git Flow và quy tắc nhóm bạn gửi, tôi viết lại **README.md** một cách rõ ràng, dễ theo dõi, chuẩn cho cả Frontend và Backend. Bạn có thể copy trực tiếp vào repo.
-
----
-
-```markdown
-# Bookstore Project
-
 ## 1. Giới thiệu
 Dự án Bookstore là hệ thống quản lý sách online với đầy đủ các tính năng:
 - Quản lý sách, giỏ hàng, đơn hàng, thanh toán.
